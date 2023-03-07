@@ -1,0 +1,102 @@
+
+/*-- Main Contents Basic Setting Style --*/
+
+a{
+	text-decoration: none;
+	color : RGB(88,106,235) ;
+}
+
+a:hover{
+	text-decoration: underline;
+	color : RGB(207,34,10) ;
+}
+
+/*--  Kiji Area Setting Style  --*/
+
+.navi {color:RGB(164,100,100);}
+
+#content {
+color: RGB(37,33,24) ;
+border-color : silver  ;
+}
+div.blog_top  {
+color : #222222 ;
+background-color : white ;
+border-color : RGB(151,142,151) ;
+}
+
+div.blog_top .blogbody {
+color : #222222 ;
+background-color : transparent ;
+border-color : RGB(147,147,147) ;
+}
+
+div.blog_top div.text{
+color : #222222 ;
+background-color : transparent ;
+border-color :RGB(147,147,147);
+}
+
+/*-- Footer setting --*/
+
+#footer{border-top-color : silver ;}
+
+div.powered a{color : black !important ;}
+
+/*--  TopPage Fix Area  --*/
+
+div.top_contents_contents {
+color : RGB(37,33,24) ;
+border-color : RGB(147,147,147) ;
+background-color : RGB(255,255,255) ;
+}
+
+div.top_contents_title{
+color : RGB(96,94,96)  ;
+border-color : RGB(151,142,151) ;
+background-color: RGB(96,94,96) ;
+}
+
+/* Top Midashi */
+
+div.blog_top {
+color : RGB(37,33,24) ;
+background-color : transparent ;
+border-color : RGB(151,142,151) ;
+}
+
+div.blog_top div.text {
+color : RGB(37,33,24) ;
+background-color : transparent ;
+border-color : RGB(151,142,151) ;
+}
+
+div.blog_top h2.title{
+color : RGB(156,19,19) ;
+background-color: RGB(255,63,63) ;
+border-color : RGB(156,19,19) ;
+}
+
+div.blog_top h2.title a {
+color : RGB(156,19,19) !important 
+}
+
+div.blog_top h3.title{
+color : RGB(70,72,76) ;
+background-color: RGB(76,76,76) ;
+border-color : RGB(70,72,76) ;
+}
+
+div.blog_top h3.title a {
+color : RGB(70,72,76) !important 
+}
+
+div.blog_top h4.title{
+color : RGB(0,0,0) ;
+background-color: RGB(201,201,201) ;
+border-color : RGB(0,0,0) ;
+}
+
+div.blog_top h4.title a {
+color : RGB(0,0,0) !important 
+}

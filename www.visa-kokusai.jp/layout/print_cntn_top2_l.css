@@ -1,0 +1,45 @@
+/*
+div#container , div#sub_container{
+	width : 708px ;
+}
+
+div#banner{
+	width : 708px ;
+}
+
+div#container_2{}
+
+h1 img{
+	width : 100%  !important ;
+}
+
+img.main_img{ width : 100% !important }
+*/
+/* サブサイドバー */
+/*
+div#links{display : none ;}
+*/
+
+/* メインサイドバー */
+/*
+div#links-left{
+	width : 191px ;
+	float : left ;	
+}
+*/
+/* コンテンツ */
+/*
+div#content{
+	width : 516px ;
+	border-right-width : 0 !important ;
+	float : right ;
+}
+*/
+/*　フッター　*/
+/*
+div#footer{
+	width : 708px ;
+}
+*/
+
+

@@ -1,0 +1,281 @@
+
+
+/* ------- */
+/* INPUT幅調整START */
+
+div.fm_field{ float : left ; width : auto ; padding : 4px 10px  ;}
+
+
+
+/* ---- 標準幅 ----- */
+
+
+/* 標準 2列 左サイドバー */
+body#s_all2_l div#container div#content div.fm_field{ width : 320px; }
+body#s_all2_l div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 2列 右サイドバー */
+body#s_all2_r div#container div#content div.fm_field{ width : 320px; }
+body#s_all2_r div#sub_container  div#content div.fm_field{ width : 320px; }
+
+
+
+/* 標準 全3列 */
+body#s_all3 div#container div#content div.fm_field{ width : 130px; }
+body#s_all3 div#sub_container div#content div.fm_field{ width : 130px; }
+
+
+
+/* 標準 トップ3列 サブ2列 左サイドバー */
+body#s_t3s2_l div#container div#content div.fm_field{ width : 130px; }
+body#s_t3s2_l div#sub_container div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ3列 サブ2列 右サイドバー */
+body#s_t3s2_r div#container div#content div.fm_field{ width : 130px; }
+body#s_t3s2_r div#sub_container div#content div.fm_field{ width : 320px; }
+
+
+
+/* 標準 全1列 100：0 */
+body#s_all1 div#container div#content div.fm_field{ width : 430px; }
+body#s_all1 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* 標準 全1列 70：30 */
+body#s_all1.n_70_30 div#container div#content div.fm_field{ width : 310px; }
+body#s_all1.n_70_30 div#container div#top_sub div.fm_field{ width : 60px; }
+body#s_all1.n_70_30 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* 標準 全1列 60：40 */
+body#s_all1.n_60_40 div#container div#content div.fm_field{ width : 200px; }
+body#s_all1.n_60_40 div#container div#top_sub div.fm_field{ width : 100px; }
+body#s_all1.n_60_40 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* 標準 全1列 50：50 */
+body#s_all1.n_50_50 div#container div#content div.fm_field{ width : 150px; }
+body#s_all1.n_50_50 div#container div#top_sub div.fm_field{ width : 150px; }
+body#s_all1.n_50_50 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* 標準 全1列 40：60 */
+body#s_all1.n_40_60 div#container div#content div.fm_field{ width : 230px; }
+body#s_all1.n_40_60 div#container div#top_sub div.fm_field{ width : 100px; }
+body#s_all1.n_40_60 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* 標準 全1列 30：70 */
+body#s_all1.n_30_70 div#container div#content div.fm_field{ width : 310px; }
+body#s_all1.n_30_70 div#container div#top_sub div.fm_field{ width : 60px; }
+body#s_all1.n_30_70 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+
+
+/* 標準 トップ1列 100：0 サブ2列 左サイドバー */
+body#s_t1s2_l div#container div#content div.fm_field{ width : 430px; }
+body#s_t1s2_l div#sub_container div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 70：30 サブ2列 左サイドバー  */
+body#s_t1s2_l.n_70_30 div#container div#content div.fm_field{ width : 310px; }
+body#s_t1s2_l.n_70_30 div#container div#top_sub div.fm_field{ width : 60px; }
+body#s_t1s2_l.n_70_30 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 60：40 サブ2列 左サイドバー  */
+body#s_t1s2_l.n_60_40 div#container div#content div.fm_field{ width : 200px; }
+body#s_t1s2_l.n_60_40 div#container div#top_sub div.fm_field{ width : 100px; }
+body#s_t1s2_l.n_60_40 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 50：50 サブ2列 左サイドバー  */
+body#s_t1s2_l.n_50_50 div#container div#content div.fm_field{ width : 150px; }
+body#s_t1s2_l.n_50_50 div#container div#top_sub div.fm_field{ width : 150px; }
+body#s_t1s2_l.n_50_50 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 40：60 サブ2列 左サイドバー  */
+body#s_t1s2_l.n_40_60 div#container div#content div.fm_field{ width : 230px; }
+body#s_t1s2_l.n_40_60 div#container div#top_sub div.fm_field{ width : 100px; }
+body#s_t1s2_l.n_40_60 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 30：70 サブ2列 左サイドバー  */
+body#s_t1s2_l.n_30_70 div#container div#content div.fm_field{ width : 310px; }
+body#s_t1s2_l.n_30_70 div#container div#top_sub div.fm_field{ width : 60px; }
+body#s_t1s2_l.n_30_70 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+
+
+/* 標準 トップ1列 100：0 サブ2列 右サイドバー */
+body#s_t1s2_r div#container div#content div.fm_field{ width : 430px; }
+body#s_t1s2_r div#sub_container div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 70：30 サブ2列 右サイドバー  */
+body#s_t1s2_r.n_70_30 div#container div#content div.fm_field{ width : 310px; }
+body#s_t1s2_r.n_70_30 div#container div#top_sub div.fm_field{ width : 60px; }
+body#s_t1s2_r.n_70_30 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 60：40 サブ2列 右サイドバー  */
+body#s_t1s2_r.n_60_40 div#container div#content div.fm_field{ width : 200px; }
+body#s_t1s2_r.n_60_40 div#container div#top_sub div.fm_field{ width : 100px; }
+body#s_t1s2_r.n_60_40 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 50：50 サブ2列 右サイドバー  */
+body#s_t1s2_r.n_50_50 div#container div#content div.fm_field{ width : 150px; }
+body#s_t1s2_r.n_50_50 div#container div#top_sub div.fm_field{ width : 150px; }
+body#s_t1s2_r.n_50_50 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 40：60 サブ2列 右サイドバー  */
+body#s_t1s2_r.n_40_60 div#container div#content div.fm_field{ width : 200px; }
+body#s_t1s2_r.n_40_60 div#container div#top_sub div.fm_field{ width : 100px; }
+body#s_t1s2_r.n_40_60 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+/* 標準 トップ1列 30：70 サブ2列 右サイドバー  */
+body#s_t1s2_r.n_30_70 div#container div#content div.fm_field{ width : 310px; }
+body#s_t1s2_r.n_30_70 div#container div#top_sub div.fm_field{ width : 60px; }
+body#s_t1s2_r.n_30_70 div#sub_container  div#content div.fm_field{ width : 320px; }
+
+
+
+/* ---- ワイド幅 ----- */
+
+
+/* ワイド 2列 左サイドバー */
+body#w_all2_l div#container div#content div.fm_field{ width : 430px; }
+body#w_all2_l div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド 2列 右サイドバー */
+body#w_all2_r div#container div#content div.fm_field{ width : 430px; }
+body#w_all2_r div#sub_container  div#content div.fm_field{ width : 430px; }
+
+
+
+/* ワイド 全3列 */
+body#w_all3 div#container div#content div.fm_field{ width : 330px; }
+body#w_all3 div#sub_container  div#content div.fm_field{ width : 330px; }
+
+
+
+/* ワイド トップ3列 サブ2列 左サイドバー */
+body#w_t3s2_l div#container div#content div.fm_field{ width : 330px; }
+body#w_t3s2_l div#sub_container div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ3列 サブ2列 右サイドバー */
+body#w_t3s2_r div#container div#content div.fm_field{ width : 330px; }
+body#w_t3s2_r div#sub_container div#content div.fm_field{ width : 430px; }
+
+
+
+/* ワイド 全1列 100：0 */
+body#w_all1 div#container div#content div.fm_field{ width : 430px; }
+body#w_all1 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド 全1列 70：30 */
+body#w_all1.w_70_30 div#container div#content div.fm_field{ width : 430px; }
+body#w_all1.w_70_30 div#container div#top_sub div.fm_field{ width : 77px; }
+body#w_all1.w_70_30 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド 全1列 60：40 */
+body#w_all1.w_60_40 div#container div#content div.fm_field{ width : 350px; }
+body#w_all1.w_60_40 div#container div#top_sub div.fm_field{ width : 170px; }
+body#w_all1.w_60_40 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド 全1列 50：50 */
+body#w_all1.w_50_50 div#container div#content div.fm_field{ width : 270px; }
+body#w_all1.w_50_50 div#container div#top_sub div.fm_field{ width : 270px; }
+body#w_all1.w_50_50 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド 全1列 40：60 */
+body#w_all1.w_40_60 div#container div#content div.fm_field{ width : 350px; }
+body#w_all1.w_40_60 div#container div#top_sub div.fm_field{ width : 170px; }
+body#w_all1.w_40_60 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド 全1列 30：70 */
+body#w_all1.w_30_70 div#container div#content div.fm_field{ width : 430px; }
+body#w_all1.w_30_70 div#container div#top_sub div.fm_field{ width : 77px; }
+body#w_all1.w_30_70 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+
+
+
+
+/* ワイド トップ1列 100：0 サブ2列 左サイドバー */
+body#w_t1s2_l div#container div#content div.fm_field{ width : 430px; }
+body#w_t1s2_l div#sub_container div#content div.fm_field{ width :430px; }
+
+/* ワイド トップ1列 70：30 サブ2列 左サイドバー  */
+body#w_t1s2_l.w_70_30 div#container div#content div.fm_field{ width : 430px; }
+body#w_t1s2_l.w_70_30 div#container div#top_sub div.fm_field{ width : 77px; }
+body#w_t1s2_l.w_70_30 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 60：40 サブ2列 左サイドバー  */
+body#w_t1s2_l.w_60_40 div#container div#content div.fm_field{ width : 350px; }
+body#w_t1s2_l.w_60_40 div#container div#top_sub div.fm_field{ width : 170px; }
+body#w_t1s2_l.w_60_40 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 50：50 サブ2列 左サイドバー  */
+body#w_t1s2_l.w_50_50 div#container div#content div.fm_field{ width : 270px; }
+body#w_t1s2_l.w_50_50 div#container div#top_sub div.fm_field{ width : 270px; }
+body#w_t1s2_l.w_50_50 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 40：60 サブ2列 左サイドバー  */
+body#w_t1s2_l.w_40_60 div#container div#content div.fm_field{ width : 350px; }
+body#w_t1s2_l.w_40_60 div#container div#top_sub div.fm_field{ width : 170px; }
+body#w_t1s2_l.w_40_60 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 30：70 サブ2列 左サイドバー  */
+body#w_t1s2_l.w_30_70 div#container div#content div.fm_field{ width : 430px; }
+body#w_t1s2_l.w_30_70 div#container div#top_sub div.fm_field{ width : 77px; }
+body#w_t1s2_l.w_30_70 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+
+
+
+/* ワイド トップ1列 100：0 サブ2列 右サイドバー */
+body#w_t1s2_r div#container div#content div.fm_field{ width : 430px; }
+body#w_t1s2_r div#sub_container div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 70：30 サブ2列 右サイドバー  */
+body#w_t1s2_r.w_70_30 div#container div#content div.fm_field{ width : 430px; }
+body#w_t1s2_r.w_70_30 div#container div#top_sub div.fm_field{ width : 77px; }
+body#w_t1s2_r.w_70_30 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 60：40 サブ2列 右サイドバー  */
+body#w_t1s2_r.w_60_40 div#container div#content div.fm_field{ width : 350px; }
+body#w_t1s2_r.w_60_40 div#container div#top_sub div.fm_field{ width : 170px; }
+body#w_t1s2_r.w_60_40 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 50：50 サブ2列 右サイドバー  */
+body#w_t1s2_r.w_50_50 div#container div#content div.fm_field{ width : 270px; }
+body#w_t1s2_r.w_50_50 div#container div#top_sub div.fm_field{ width : 270px; }
+body#w_t1s2_r.w_50_50 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 40：60 サブ2列 右サイドバー  */
+body#w_t1s2_r.w_40_60 div#container div#content div.fm_field{ width : 350px; }
+body#w_t1s2_r.w_40_60 div#container div#top_sub div.fm_field{ width : 170px; }
+body#w_t1s2_r.w_40_60 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+/* ワイド トップ1列 30：70 サブ2列 右サイドバー  */
+body#w_t1s2_r.w_30_70 div#container div#content div.fm_field{ width : 430px; }
+body#w_t1s2_r.w_30_70 div#container div#top_sub div.fm_field{ width : 77px; }
+body#w_t1s2_r.w_30_70 div#sub_container  div#content div.fm_field{ width : 430px; }
+
+
+
+
+
+
+
+/* INPUT幅調整END */
+
+/* TEXTAREA幅調整START */
+
+body#s_all1.n_60_40 div#container div#top_sub textarea.input_text{ width : 90px; }
+body#s_all1.n_40_60 div#container div#top_sub textarea.input_text{ width : 90px; }
+
+body#s_all1.n_70_30 div#container div#top_sub textarea.input_text{ width : 80px; }
+body#s_all1.n_30_70 div#container div#top_sub textarea.input_text{ width : 80px; }
+
+body#w_all1.w_60_40 div#container div#top_sub textarea.input_text{ width : 170px; }
+body#w_all1.w_40_60 div#container div#top_sub textarea.input_text{ width : 170px; }
+
+body#w_all1.w_70_30 div#container div#top_sub textarea.input_text{ width : 77px; }
+body#w_all1.w_30_70 div#container div#top_sub textarea.input_text{ width : 77px; }
+
+/* TEXTAREA幅調整END */
+
+
+
+/* ------- */

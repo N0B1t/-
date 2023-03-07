@@ -1,0 +1,37 @@
+/* Big Text Size */
+
+/* iphone‘Î‰ž 20101005 */
+html {-webkit-text-size-adjust:none}
+
+#links-left {
+font-size : 13px ;
+}
+
+#links {
+font-size : 13px ;
+}
+
+
+div.title_description_simple{
+font-size : 13px ;
+}
+
+div.title_description_with_address{
+font-size : 13px ;
+}
+
+div.header_address{
+font-size : 12px ;
+}
+
+#content , #top_sub {
+font-size : 110% ;
+}
+
+div.header_link{
+font-size : 13px ;
+}
+
+/* Initial Setting */
+
+p{ margin : 0.5em 0px 0px 0px ; padding : 0px 0px 0px 0px }

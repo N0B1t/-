@@ -1,0 +1,218 @@
+
+/* Link Contena Style */
+
+#links-left {
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px ;
+	border-style : solid ;
+	border-width : 0px 0px 0px 0px ;
+	margin: 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px  ;
+}
+
+#links {
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px ;
+	border-style : solid ;
+	border-width : 0px 0px 0px 0px ;
+	margin: 0px 0px 0px 0px;
+	padding : 0px 0px 0px 0px  ;
+}
+
+
+
+/* 1st Menu Style  */
+
+div.side_link{
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px  ;
+	border-style : solid ;
+	border-width : 0px 0px 0px 0px  ;
+	margin : 1px 0px 1px 0px ;
+	padding : 0px 0px 0px 0px  ;
+}
+
+div.side_link a{
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px  ;
+	border-style : solid ;
+	border-width : 0px 0px 0px 15px  ;
+	display : block ;
+	font-weight : normal ;
+	letter-spacing : 0px ;
+	line-height : 1.2 ;
+	margin : 0px 0px 0px 0px  ;
+	padding : 5px 6px 5px 10px ;
+	text-decoration : none ;
+	text-align : left ;
+}
+
+div.side_link a:hover{
+	text-decoration : underline ;
+	font-weight : normal ;	
+}
+
+/* 2nd Menu Style  */
+
+
+div.side_link_2{
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px ;
+	border-style : solid ;
+	border-width : 1px 0px 1px 1px ;
+	margin : 1px 0px 1px 0px ;
+	padding : 0px 0px 0px 0px  ;
+}
+
+div.side_link_2 a{
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px ;
+	border-width : 0px 0px 0px 28px ;
+	border-style : solid ;
+	display : block ;
+	font-weight : normal ;
+	letter-spacing : 0px ;
+	line-height : 1.2 ;
+	margin : 0px 0px 0px 0px  ;
+	padding : 4px 6px 3px 12px ;
+	text-decoration : none ;
+	text-align : left ;
+}
+
+
+div.side_link_2 a:hover{
+	text-decoration : underline ;
+	font-weight : normal ;	
+}
+
+
+
+/* Side Box Style  */
+
+div.side_title {
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px ;
+	border-width : 1px 0px 0px 0px  ;
+	border-style : solid ;
+	font-weight : bold ;
+	letter-spacing : 0px ;
+	line-height : 1.2 ;
+	margin : 0px 0px 0px 0px ;
+	padding:6px 15px 4px 11px;
+	text-decoration : none ;
+	text-align : left ;
+	font-size : 90% ;
+}
+
+
+div.side_contents {
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px ;
+	border-width : 1px 0px 1px 0px  ;
+	border-style : solid ;
+	font-weight : normal ;
+	letter-spacing : 0px ;
+	line-height : 1.2 ;
+	margin : 0px 0px 1px 0px ;
+	padding:7px 11px 7px 15px;
+	text-decoration : none ;
+	text-align : left ;
+}
+
+
+
+/* Header Menu Style */
+
+div.header_link {
+	background-image : url();
+	background-repeat : no-repeat ;
+	background-position : 0px 0px ;
+	border-width : 2px 0px 1px 0px  ;
+	border-style : solid ;
+	line-height : 1.3 ;
+	margin : 0px 0px 0px 0px;
+	padding : 5px 0px 5px 0px ;
+	text-align : center ;
+	vertical-align : middle ;
+	clear : both ;
+	width : 100% ;
+}
+
+div.header_link a{
+	display : inline ;
+	font-weight : normal ;
+	letter-spacing : 0px ;
+	text-decoration : none ;
+}
+
+div.header_link a:hover{
+	font-weight : normal ;
+	letter-spacing : 0px ;
+	text-decoration : underline ;
+}
+
+
+
+.header_separator{
+	display : inline ;
+}
+
+
+/* Calendar Style */
+
+
+
+#calendar {
+	font-weight : normal ;
+	width : 95% ;
+	margin : 0px 0px 10px 0px ;
+	padding :0px 0px 15px 0px ;
+}
+
+#calendar table {
+	width: 95% ;
+	margin : 0px auto 0px auto ;
+	}
+
+#calendar th{
+	text-align:center;
+	font-size:12px;
+	font-weight:bold;
+	padding:6px 3px 6px 3px ;
+}
+#calendar td{
+	text-align:center;
+	font-size:12px;
+	padding:6px 3px 6px 3px ;
+}
+.calendarhead {
+	font-size:12px;
+	font-weight:bolder;
+	padding:10px 10px 8px 25px;
+	text-align:left;
+}
+
+.calendarday { text-align : center}
+
+.syndicate {padding:5px 10px 10px 10px; font-size : 8pt }
+
+input.favorite{
+	display : block ;
+	padding : 1px ;
+	margin : 7px auto 7px auto ;
+}
+
+img.mag_img{
+	display : block ;
+	float : left ;
+	margin : 0px 3px 6px 3px ;
+}
+

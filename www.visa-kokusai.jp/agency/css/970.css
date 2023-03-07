@@ -1,0 +1,88 @@
+
+/* Link Contena Style */
+
+#links-left , #links{
+	border-color : inherit ;
+	background-color : RGB(220,231,230)
+}
+
+
+/* 1st Menu Style  */
+
+div.side_link{
+	border-color : RGB(149,170,181) ;
+	background-color : RGB(109,138,154) ;
+	color : RGB(255,255,255) ;
+}
+
+div.side_link a{
+	border-color : RGB(149,170,181) ;
+	background-color : RGB(109,138,154) ;
+	color : RGB(255,255,255) ;
+}
+
+
+div.side_link a:hover{
+	border-color : RGB(149,170,181) ;	
+ 	background-color : RGB(77,99,111) ;
+	color : RGB(255,255,255) ;
+}
+
+/* 2nd Menu Style  */
+
+
+div.side_link_2{
+	border-color : RGB(197,204,220) ;
+	background-color : RGB(236,240,242) ;
+	color : RGB(68,68,68) ;
+}
+
+div.side_link_2 a{
+	border-color : RGB(197,204,220) ;
+	background-color : RGB(236,240,242) ;
+	color : RGB(68,68,68) ;
+}
+
+
+div.side_link_2 a:hover{
+	border-color : RGB(197,204,220) ;	
+ 	background-color : RGB(236,240,242) ;
+	color : RGB(68,68,68) ;
+}
+
+
+
+/* Side Box Style  */
+
+div.side_title {
+	border-color : RGB(137,160,173) ;
+	background-color : RGB(137,160,173) ;
+	color : RGB(255,255,255) ;
+}
+
+
+
+div.side_contents {
+	border-color : RGB(137,160,173) ;
+	background-color : RGB(255,255,255) ;
+	color :  RGB(68,68,68) ;
+}
+
+
+
+/* Header Menu Style */
+
+
+/*--  Calendar Style  --*/
+
+#calendar {}
+#calendar table {}
+#calendar th{}
+#calendar td{}
+.calendarhead {}
+.calendarday {}
+.powered {}
+.syndicate {}
+
+
+

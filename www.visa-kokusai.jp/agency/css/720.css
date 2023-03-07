@@ -1,0 +1,23 @@
+
+body {
+	font-family:"£Í£Ó £Ð¥´¥·¥Ã¥¯", Osaka, "¥Ò¥é¥®¥Î³Ñ¥´ Pro W3" ;
+	font-style:normal;
+	font-weight:normal;
+	text-align:left;
+	text-decoration:none;
+	margin:0px 0px 0px 0px ;
+	padding:0px 0px 0px 0px ;
+	word-break : break-all ;
+	background-color : RGB(202,208,223) ;
+}
+
+
+div , table , tr , td , th , li , dl , dt , dd , form{
+	margin : 0px 0px 0px 0px ;
+	padding : 0px 0px 0px 0px ;
+}
+
+
+a{	text-decoration: none;	}
+
+a:hover{	text-decoration: underline;	}

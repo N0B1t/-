@@ -1,0 +1,28 @@
+
+div.banner_color .site_name{
+width : 334px ;
+height : 104px ;
+margin : 0px ;
+padding : 100px 395px 0px 39px ;
+background-image : url(../../agency_site_parts/1/header/30931.jpg);
+background-repeat : no-repeat ;
+background-position : left top ;
+background-color: transparent !important ;
+
+}
+
+*>div.banner_color .site_name{
+min-height : 104px ;
+height : auto ;
+}
+
+
+div.banner_color .site_name a{
+font-size : 17pt ;
+font-weight : bold ;
+letter-spacing: 0px ;
+text-decoration : none !important ;
+color : RGB(0,58,147) !important ; 
+font-family: '‚l‚r ‚oƒSƒVƒbƒN' , san-serif;
+}
+

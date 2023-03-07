@@ -1,0 +1,661 @@
+@import url('../../agency_site_parts/1/css/369945.css') ;
+
+/*------------- New Form Style ------------*/
+
+/*--- Honbun Form ---*/
+
+div.fm_cntn{
+border : 1px solid gray ;
+font-size : 10pt ;
+margin : 10px auto 10px 10px ;
+background-image: url(../../agency_site_parts/1/css/1094.gif);
+background-color : RGB(255,255,255) ;
+background-repeat:repeat-y;
+background-position:left top ;
+width : 96% ;
+max-width : 600px ;
+}
+
+div.fm_clmn{
+border-top : 1px solid RGB(142,161,187) ;
+clear : both ;
+}
+
+div.fm_submit_clmn{
+border-top: 1px solid RGB(142,161,187) ;
+clear : both ;
+padding : 3px 10px ;
+background-color:white;
+}
+
+/*---
+div.fm_submit_clmn input{
+display : block ;
+margin : 3px auto ;
+}
+---*/
+
+div.fm_submit_clmn div.submitb {
+text-align : center ;
+padding : 3px 0px ;
+}
+
+div.fm_submit_clmn p{
+margin : 3px 0px ;
+}
+
+div.fm_label{ float : left ; width : 130px ; padding : 2px 5px ; }
+
+.hissu{
+color : red ;
+}
+
+div.fm_clmn input{
+vertical-align : middle ;
+}
+
+div.fm_clmn .input_text{
+width : 93% ;
+margin : 0px ;
+}
+
+*>div.fm_clmn textarea.input_text{
+max-width : 280px ;
+}
+
+
+
+
+
+
+/* SideBar Form */
+
+#links-left div.fm_cntn , #links div.fm_cntn {
+width : 148px ;
+margin : 0px auto ;
+border : 1px solid gray ;
+padding : 0px ;
+background-color:RGB(231,227,222);
+background-image:url('');
+}
+
+#links-left div.fm_label , #links div.fm_label{
+width : 138px ;
+padding : 3px 5px ;
+float : none ;
+background-color:RGB(191,201,221);
+border-bottom : 1px solid RGB(185,173,159) ;
+}
+
+*>#links-left div.fm_label , *>#links div.fm_label{
+width : 138px ;
+}
+
+#links-left div.fm_field , #links div.fm_field{
+width : 138px ;
+padding : 3px 5px ;
+float : none ;
+background-color:white
+}
+
+#links-left div.fm_clmn , #links div.fm_clmn{
+width : 148px ;
+padding : 0px 0px ;
+margin : 0px ;
+}
+
+#links-left div.fm_submit_clmn , #links div.fm_submit_clmn {
+width : 138px ;
+padding : 3px 5px ;
+float : none ;
+background-color:white
+}
+
+*>#links-left div.fm_submit_clmn , *>#links div.fm_submit_clmn {
+width : 138px ;
+}
+
+/*------------ Shopping Cart Style -----------------*/
+
+
+table.cart{
+
+}
+
+table.cart tr td.ctrl{
+padding : 3px 5px ;
+vertical-align:top;
+}
+
+table.cart tr td.exp{
+vertical-align:top;
+padding : 3px 5px ;
+}
+
+table.cart tr td.ctrl input{
+vertical-align : middle ;
+margin :2px 4px ;
+}
+
+table.cart tr td.ctrl p{
+margin : 4px 0px ;
+}
+
+table.cart tr td.exp p{
+margin : 0px 3px 10px 3px ;
+}
+
+
+table.cart table.detail{
+border-collapse : collapse ;
+}
+
+table.cart table.detail td{
+padding : 2px 4px ;
+vertical-align:top ;
+}
+
+table.cart table.detail th{
+font-weight : normal ;
+padding : 2px 4px ;
+vertical-align:top ;
+width : 23% ;
+}
+
+input.order_num{
+width : 3em ;
+}
+
+#something_top table.cart table.detail .item_name{ color : black ;}
+#something_sub table.cart table.detail .item_name{ color : black ;}
+
+/*------------ Lagecy Form Style -----------------*/
+
+div.mm_common_side{
+width : 90% ;
+margin : 10px auto 10px auto ;
+line-height : 90% ;
+word-wrap: break-word ;
+word-break: break-all ;
+}
+
+div.mm_common_side form , div.mm_common_side input{
+margin : 0px 0px 0px 0px ;
+padding : 0px 0px 0px 0px ;
+}
+
+div.mm_common_side input{
+margin : 0px 5px 0px 5px ;
+padding : 0px 0px 0px 0px ;
+}
+
+div.mm_common_side input.fullsize{
+width : 90% ;
+}
+
+div.mm_common_side input.mini{
+width : 50% ;
+margin : 3px 5px 3px 5px ;
+}
+
+
+div.mm_common_side textarea{
+width : 90% ;
+}
+
+div.mm_common_side div.submitb{
+text-align:center;
+padding : 5px 5px 10px 5px ;
+}
+
+
+
+
+div.mm_common_side div.formtitle{
+font-size : 90% ;
+line-height: 110% ;
+margin : 0px 0px 0px 0px ;
+padding : 3px 6px 3px 6px ;
+text-align:center ;
+}
+
+div.mm_common_side div.label{
+font-size : 90% ;
+line-height: 110% ;
+padding : 6px 6px 4px 6px ;
+margin : 0px 0px 0px 0px ;
+}
+
+div.mm_common_side div.tyuigaki{
+font-size : 90% ;
+line-height: 110% ;
+padding : 6px 6px 6px 6px ;
+}
+
+div.mm_common_side .hissu{
+color : RGB(202,64,64) ;
+}
+
+
+
+div.reg_side , div.del_side{
+border-width : 2px ;
+border-left-width : 1px ;
+}
+
+div.reg_side .formtitle , div.del_side .formtitle{
+font-weight : bold ;
+}
+
+div.reg_side .label , div.del_side .label{
+border-bottom-width : 0px ;
+}
+
+
+
+
+
+div.mm_common_honbun{
+padding : 0px 0px 0px 0px ;
+margin : 10px auto 10px auto ;
+width : 94% ;
+font-size : 100% ;
+letter-spacing : 0px ;
+line-height : 90% ;
+word-wrap: break-word ;
+word-break: break-all ;
+}
+
+
+
+div.mm_common_honbun form{
+margin : 0px 0px 0px 0px ;
+padding : 0px 0px 0px 0px ;
+}
+
+div.mm_common_honbun textarea{
+margin : 2px 1px 1px 4px ;
+padding : 0px 0px 0px 0px ;
+width : 95% ;
+}
+
+div.mm_common_honbun input{
+margin : 2px 1px 1px 4px ;
+padding : 0px 0px 0px 0px ;
+}
+
+div.mm_common_honbun input.fullsize{
+width : 95% ;
+}
+
+div.mm_common_honbun div.submitb{
+padding : 5px 5px 5px 5px ;
+text-align : center ;
+}
+
+div.mm_common_honbun input.mini{
+width : 30% ;
+margin : 2px 1px 1px 4px ;
+padding : 0px 0px 0px 0px ;
+}
+
+div.mm_common_honbun input.mini2{
+width : 60% ;
+margin : 8px 1px 10px 1px ;
+padding : 0px 0px 0px 0px ;
+}
+
+
+div.mm_common_honbun table{
+margin : 0px !important ;
+width : 100% !important ;
+}
+
+div.mm_common_honbun td.formtitle{
+line-height: 110% ;
+padding : 3px 3px 3px 5px ;
+font-weight:bold;
+
+}
+
+div.mm_common_honbun td.label{
+line-height: 110% ;
+padding : 3px 3px 3px 5px ;
+}
+
+
+div.mm_common_honbun .tyuigaki{
+line-height: 110% ;
+padding : 2px 2px 2px 6px ;
+}
+
+
+.tyusyaku{
+margin: 6px 6px 6px 6px ;
+line-height : 1.2 ;
+}
+
+
+
+
+div.reg_honbun , div.del_honbun , div.siryo , div.toiawase{
+border-width : 2px ;
+border-left-width : 1px ;
+}
+
+div.reg_honbun .title , div.del_honbun .title div.top_contents_title{
+font-weight : bold ;
+}
+
+
+div.reg_honbun table tr td , div.del_honbun table tr td , div.siryo table tr td , div.toiawase table tr td{
+border-bottom-width : 1px ;
+}
+
+
+.size_ss{width : 2em ;}
+.size_s{width : 80px ;}
+.size_m{width : 160px ;}
+.size_l{width : 320px ;}
+
+
+/*-- Legacy Form Setting Detail(1) --*/
+
+
+div.reg_side{
+background-color : white !important;
+border-style : outset !important;
+border-color : RGB(117,138,182) !important;
+}
+
+div.reg_side .formtitle{
+background-color:RGB(117,138,182) !important;
+color :white !important;
+}
+
+div.reg_side .label{
+color : RGB(32,54,16) !important;
+border-bottom-color : RGB(191,201,221) !important;
+border-bottom-style : solid !important;
+}
+
+
+
+div.del_side{
+background-color : white !important;
+border-color : RGB(117,138,182) !important;
+border-style : outset !important;
+}
+
+div.del_side .formtitle{
+background-color:RGB(175,177,184)!important ;
+color :white !important;
+}
+
+div.del_side .label{
+background-color: RGB(191,201,221) !important;
+color : RGB(32,54,16) !important;
+border-bottom-style : solid !important;
+border-bottom-color : RGB(191,201,221) !important;
+}
+
+
+
+
+
+
+div.mm_common_honbun{
+
+}
+
+
+div.mm_common_honbun .hissu{
+color : RGB(202,64,64) !important;
+}
+
+
+
+div.reg_honbun{
+background-color : white !important;
+border-style : outset !important;
+border-color : RGB(117,138,182) !important;
+}
+
+div.reg_honbun .formtitle{
+background-color:RGB(117,138,182) !important;
+color :white !important;
+}
+
+div.reg_honbun .label{
+background-color: RGB(226,225,222) !important;
+color : RGB(32,54,16) !important;
+}
+
+div.reg_honbun table tr td{
+border-bottom-color : RGB(191,201,221) !important;
+border-bottom-style : solid !important;
+background-color: RGB(226,225,222) !important;
+}
+
+
+div.del_honbun{
+background-color : white !important;
+border-color : RGB(175,177,184) !important;
+border-style : outset !important;
+}
+
+div.del_honbun .formtitle{
+background-color:RGB(117,138,182) !important;
+color :white !important;
+}
+
+div.del_honbun .label{
+background-color: RGB(231,232,233) !important;
+color : RGB(32,54,16) !important;
+}
+
+div.del_honbun table tr td{
+border-bottom-color : RGB(191,201,221) !important;
+border-bottom-style : solid !important;
+}
+
+
+
+div.siryo{
+background-color : white !important;
+border-color : RGB(117,138,182) !important;
+border-style : outset !important;
+}
+
+div.siryo .formtitle{
+background-color:RGB(117,138,182) !important;
+color : white !important ;
+}
+
+div.siryo .label{
+background-color: RGB(191,201,221) !important;
+color : RGB(32,54,16) !important;
+border-top-color : RGB(213,211,206) !important ;
+}
+
+div.siryo table tr td{
+border-bottom-style : solid !important ;
+border-bottom-color : RGB(209,208,203) !important;
+background-color : RGB(253,253,252) !important ;
+}
+
+
+
+div.toiawase{
+background-color : white !important;
+border-style : outset !important;
+border-color : RGB(117,138,182) !important;
+}
+
+div.toiawase .formtitle{
+background-color:RGB(117,138,182) !important;
+color :white !important;
+}
+
+div.toiawase .label{
+background-color: RGB(191,201,221) !important;
+color : RGB(32,54,16) !important;
+}
+
+div.toiawase table tr td{
+border-bottom-style : solid !important;
+border-bottom-color : RGB(191,201,221) !important ;
+background-color : RGB(253,253,252) !important ;
+}
+
+
+
+
+/*-- Table in Kiji setting --*/
+
+div#content table , div#top_sub table {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+margin : 10px 0px 10px 0px ;
+font-size : 100% ;
+width : 95% ;
+background-color : RGB(227,236,253) ;
+border-color : RGB(158,173,203);
+}
+
+
+div#content table tr td , div#top_sub table tr td {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+padding : 5px 5px 5px 5px ;
+vertical-align : top ;
+border-color : RGB(191,201,221);
+}
+
+div#content table tr th , div#top_sub table tr th {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+padding : 5px 5px 5px 5px ;
+vertical-align : top ;
+background-color : RGB(187,207,249) ;
+border-color : RGB(191,201,221);
+text-align : left ;
+}
+
+/*-- Sidebar Table setting --*/
+
+div#links table , div#links-left table {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+margin : 5px 0px 5px 0px ;
+font-size : 100% ;
+background-color : transparent ;
+border-color : RGB(158,173,203) ;
+}
+
+
+div#links table tr td , div#links-left table tr td {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+padding : 3px 3px 3px 3px ;
+vertical-align : top ;
+background-color :transparent ;
+border-color :RGB(191,201,221);
+}
+
+div#links table tr th , div#links-left table tr th {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+padding : 3px 3px 3px 3px ;
+vertical-align : top ;
+background-color : transparent ;
+border-color : RGB(191,201,221);
+text-align : left ;
+}
+/*-- Header & Footer Table setting --*/
+
+div#banner table , div#footer table {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+margin : 10px 0px 10px 0px ;
+font-size : 100% ;
+background-color : transparent ;
+border-color : RGB(158,173,203);
+}
+
+div#banner div.header_address table{
+width : auto ;
+}
+
+div#banner table tr td , div#footer table tr td {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+padding : 5px 5px 5px 5px ;
+vertical-align : top ;
+background-color : transparent ;
+border-color : RGB(191,201,221);
+}
+
+div#banner table tr th , div#footer table tr th {
+border-style : solid ;
+border-width : 1px ;
+border-collapse : collapse ;
+padding : 5px 5px 5px 5px ;
+vertical-align : top ;
+background-color : transparent ;
+border-color : RGB(191,201,221);
+text-align : left ;
+}
+
+
+
+/* Calendar Style */
+
+
+
+#calendar {
+font-weight : normal ;
+margin : 0px 0px 10px 0px ;
+padding :0px 0px 15px 0px ;
+}
+
+#calendar table {
+width: 170px !important ;
+margin : 10px auto 10px auto !important ;
+border : none !important
+}
+
+#calendar table tr th{
+border : none !important ;
+text-align:center;
+font-size:12px;
+font-weight:bold;
+padding:6px 3px 6px 3px ;
+}
+#calendar table tr td{
+border : none !important ;
+text-align:center;
+font-size:12px;
+padding:6px 3px 6px 3px ;
+}
+#calendar table tr td.calendarhead {
+font-size:12px;
+font-weight:bolder;
+padding:10px 10px 8px 25px;
+text-align:center;
+}
+
+#calendar caption{
+text-align : center !important ;
+padding-bottom : 3px ;
+}
+
+#calendar table tr td.calendarday { text-align : center }

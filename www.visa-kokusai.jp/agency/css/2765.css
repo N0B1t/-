@@ -1,0 +1,32 @@
+#container {
+	margin: 20px auto 0px auto;
+	padding:0px 0px 0px 0px ;
+	border-width : 1px ;
+	border-style :solid ;
+	border-color : RGB(128,128,128);
+	font-size : 80% ;
+	background-image:url();
+	background-repeat:repeat-y;
+	background-color : RGB(255,255,255) ;
+}
+
+#container #content {
+	background-color :RGB(255,255,255) ;
+}
+
+
+/* Header Menu Style */
+
+#container div.header_link {
+	background-color : RGB(91,116,142) ;
+	border-color : RGB(170,170,170) ;
+	color :RGB(255,255,255) ;
+}
+
+#container div.header_link a{
+	color :RGB(255,255,255) ;
+}
+
+#container div.header_link a:hover{
+	color :RGB(206,233,255) ;
+}
